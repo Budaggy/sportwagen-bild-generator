@@ -9,7 +9,6 @@ h1 {
   text-align: center;
   font-size: 40px;
   text-transform: uppercase;
-  text-decoration: underline;
   animation: fallen 1.5s ease;
 }
 
